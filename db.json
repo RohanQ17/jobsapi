@@ -2,15 +2,15 @@
   [
     {
       "id": "1",
-      "title": "Senior React Developer",
+      "title": "Senior QA Engineer",
       "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "description": "We are looking for seasoned engineers who can assess and troubleshoot a product’s software in order to meet quality standards during the development lifecycle. ",
       "location": "Boston, MA",
-      "salary": "$70K - $80K",
+      "salary": "$80K - $90K",
       "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
+        "name": "QA wolf",
+        "description": "QA Wolf is a hybrid platform & service that helps software teams ship better software faster by taking QA completely off their plate. while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@QAWOLF.com",
         "contactPhone": "555-555-5555"
       }
     },
